@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" defaultValue="Default Web Site/WebApp_deploy" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\home\\saw\\workspace\\Solutions\\webapp\\src\\WebApp\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\home\\saw\\workspace\\Solutions\\webapp\\src\\WebApp\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
